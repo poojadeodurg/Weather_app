@@ -36,7 +36,7 @@ function App() {
     }
     setLoading(false)
   };
-  const API_KEY="c30ba36fc1ac55350c98ebe9c1c1daf2"
+  const API_KEY=""
   return (
     <>
 
